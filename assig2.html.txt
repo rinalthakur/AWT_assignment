@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="irfanstyle.css">
+
+</head>
+<body style="background-color:black">
+    <h1>Irfan Khan</h1>
+        <div class="image" >
+            <figure>
+            <img src="download.jpg" alt="irfan" id="a1">
+            <figcaption style="color: white;text-align:center">(7 January 1967 – 29 April 2020)</figcaption>
+            </figure>
+         </div>
+        <div style="color: darkgray;">
+            <div class="information">
+                <p >
+                    <strong>Sahabzade Irfan Ali Khan </strong>known professionally as <b>Irrfan Khan</b> or simply Irrfan, 
+                        was an <I style="color: white;">Indian actor</I> who worked in Hindi cinema as well as British and American films.
+                        
+                </p>
+               <div class="table">
+                <table>
+                    <tr>
+                        <td>
+                            Born
+                        </td>
+                        <td>
+                            7 January 1967
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Died
+                        </td>
+                        <td>
+                            29 April 2020 (aged 53)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Occupation
+    
+                        </td>
+                        <td>Actor</td>
+                    </tr>
+                    <tr rowspan="2">
+                    <td>
+                            Years active
+                    </td>
+                        
+                    <td >1985–2020</td> 
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>1996</td> 
+                    </tr>
+                    <tr>
+                        <td>
+                            Spouse(s)
+                            
+                        </td>
+                        <td>Sutapa Sikdar (m. 1995)</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Children
+                        </td>
+                        <td>2</td>
+                    </tr>
+                    
+    
+                </table>
+           
+               </div>
+    
+                <div class="other">
+                    <ul>
+                        <li>
+                           <a href="Movies.html" target="_self"><h2> Movies</h2></a>
+                        </li>
+                        <li>
+                         <a href="Dialogues.html"> <h2>Dialogues</h2></a>
+                      </li>
+                      <li>
+                         <a href="img.html"> <h2>Images</h2></a>
+                      </li>
+                    </ul>
+                </div>
+             
+            </div>
+           
+         
+        </div>
+       
+        
+</body>
+</html>
